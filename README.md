@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @the-anik-2004
 - 👀 I’m interested in Exploraing various domain of Technology...
 - 📫 How to reach me through my Linked in account www.linkedin.com/in/the-anik-pal
+- 📫 I'm also very active on X/twitter  https://x.com/bugs4O4?t=cyRemDb6jHTwBffDUhxuCg&s=08
 ...
 
 <!---
