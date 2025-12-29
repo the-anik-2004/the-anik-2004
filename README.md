@@ -1,5 +1,14 @@
 <h1>Hi 👋, I'm ANIK</h1>
 <p>A passionate Software Engineer from Kolkata. I write code and design systems that mostly works.</p>
+
+-  I’m interested in Exploraing the World of WEB3 & Blockchain 🗳️⛓️‍💥🗳️.
+
+- Designing Scalable Systems and DevOps...
+
+- Give me time I will deliver the Production Quality Application.
+
+  <code><i>"Design , Code , Fix , Scale"</i></code>
+  
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
